@@ -1,6 +1,133 @@
 [
     {
+[
+    {
         "key": "dbln",
+        "value": "%7B%2261592564763409%22%3A%22oEAAu0YH%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2026-07-30T20:25:20.897Z",
+        "lastAccessed": "2026-07-30T20:25:20.897Z"
+    },
+    {
+        "key": "datr",
+        "value": "nAVqam6Kb4Xw3jzJ4WSMSJOg",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-07-30T20:25:20.898Z",
+        "lastAccessed": "2026-07-30T20:25:20.898Z"
+    },
+    {
+        "key": "sb",
+        "value": "nAVqasbJrg4D1j0XJzORVqey",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-07-30T20:25:20.898Z",
+        "lastAccessed": "2026-07-30T20:25:20.898Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_US",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-07-30T20:25:20.898Z",
+        "lastAccessed": "2026-07-30T20:25:20.898Z"
+    },
+    {
+        "key": "pas",
+        "value": "61592564763409%3AZ4OSRNT2Hg",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-07-30T20:25:20.898Z",
+        "lastAccessed": "2026-07-30T20:25:20.898Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B897x450x2.4000000953674316",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-07-30T20:25:20.898Z",
+        "lastAccessed": "2026-07-30T20:25:20.898Z"
+    },
+    {
+        "key": "dpr",
+        "value": "2.4000000953674316",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-07-30T20:25:20.898Z",
+        "lastAccessed": "2026-07-30T20:25:20.898Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A3232%3Btimestamp%3A1785343107",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-07-30T20:25:20.898Z",
+        "lastAccessed": "2026-07-30T20:25:20.898Z"
+    },
+    {
+        "key": "wd",
+        "value": "980x1953",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-07-30T20:25:20.898Z",
+        "lastAccessed": "2026-07-30T20:25:20.898Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-07-30T20:25:20.898Z",
+        "lastAccessed": "2026-07-30T20:25:20.898Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-07-30T20:25:20.898Z",
+        "lastAccessed": "2026-07-30T20:25:20.898Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61592564763409",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-07-30T20:25:20.898Z",
+        "lastAccessed": "2026-07-30T20:25:20.898Z"
+    },
+    {
+        "key": "fr",
+        "value": "13fVRD6iC8tqTSOo1.AWclO_Hkqax4edf9xqz2rsZHOw44gT50d2vZywltzO4poUhtGC8.Bqa7Mt..AAA.0.0.Bqa7Mt.AWdIAarpAsc9k0xli86jeN8WdFM",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-07-30T20:25:20.898Z",
+        "lastAccessed": "2026-07-30T20:25:20.898Z"
+    },
+    {
+        "key": "xs",
+        "value": "20%3Akxqb6QJuo785rA%3A2%3A1785437390%3A-1%3A-1%3A%3AAcxn4LRbiGVmDeIKVfHnxhmzwfJe8S6HrIwq61ef3g",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-07-30T20:25:20.898Z",
+        "lastAccessed": "2026-07-30T20:25:20.898Z"
+    }
+]        "key": "dbln",
         "value": "%7B%2261592564763409%22%3A%22oEAAu0YH%22%7D",
         "domain": "facebook.com",
         "path": "/login/device-based/",
